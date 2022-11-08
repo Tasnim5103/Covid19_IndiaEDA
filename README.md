@@ -1,6 +1,3 @@
-# Covid19_IndiaEDA
-This is an EDA of Covid 19 and vaccination situation of India. I tried to show the crucial states of confirmed cases and vaccination situations here.
-
 A detailed analysis on Covid-19 in India by Python.
 
 In this project i have analized Covid-19 patients, deaths, recovered and vaccinations throghout the year and presented my related findings using python(numpy, pandas, seaborn).
